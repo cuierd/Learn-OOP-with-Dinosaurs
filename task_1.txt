@@ -1,0 +1,30 @@
+# case 1
+Riiiii
+
+# case 2
+
+# case 3
+Oi, mate!
+Raaaaa
+Warning: Your dinosaur Sauri died! :(
+
+
+**** By the way, we think there are some mistakes in the codes. ****
+1. in line 60 and line 90, it should be:
+	def __init__(self, name, age):
+instead of:
+	def __init(self, name, age):
+Otherwise, you are defining a private function, names "init", and there is no need to 
+use super().__init__ to inherit. If def __init(self, name, age) takes one more argument 
+because the subclass wants to overwrite, then error will raise.
+
+2. in line 68 and line 98, should be:
+	if Brachiosaurus.check_food(t):
+	if Velociraptor.check_food(t):
+instead of :
+	if self.check_food(t):
+In most of the cases, the output would be the same. But maybe classmethod should be 
+called by classname.classmethod(), otherwise, it can cause confusion when the object has 
+a method the same as classmethod. 
+
+Maybe we are wrong, please feel free to correct us. 

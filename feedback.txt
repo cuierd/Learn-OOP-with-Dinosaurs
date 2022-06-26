@@ -1,0 +1,22 @@
+a) How much time did you spend roughly on this exercise?
+A whole day, from 10 a.m. in the morning to 1 a.m at middle night.
+
+
+b) How difficult was this exercise? Was the difficulty too high, too low or just right?
+It is doable, but time-consuming.
+
+Some questions are ambiguous. e.g. We understand the question in this way while doing
+task1, later find out the you mean that way. And we need to change our codes.
+
+
+c) Do you feel more comfortable now with the topics from the exercise and lectures?
+
+Yes, the exercise is very helpful. Thank you.
+But I(Cui) feel still haven't get the beauty of class. 
+I use it almost in the old way(treat class as a group of functions who are relatives) 
+rather than the mysterious object-oriented way.
+
+
+
+
+
